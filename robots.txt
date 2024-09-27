@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://welderat.github.io/sitemap.welderat.gz
+Sitemap: https://welderat.github.io/app/sitemap.welderat.gz
+Sitemap: https://welderat.github.io/assets/sitemap.welderat.gz
+Sitemap: https://welderat.github.io/css/sitemap.welderat.gz
+Sitemap: https://welderat.github.io/data/sitemap.welderat.gz
+Sitemap: https://welderat.github.io/includes/sitemap.welderat.gz
+Sitemap: https://welderat.github.io/item/sitemap.welderat.gz
+Sitemap: https://welderat.github.io/src/sitemap.welderat.gz
